@@ -12,4 +12,4 @@ Here the neural network has 4 layers and the activation function used for the in
 and for the output layer it is a 'sgmoid' activation function.
 20% Dropout layers are being used to prevent overfitting.
 Evaluation of the model was done using Classification report and Confusion Matrix.
-A new data was introduced and prediction was done on this data.
+A new data was introduced and prediction was done on this model.
